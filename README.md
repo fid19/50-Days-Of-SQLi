@@ -2,17 +2,15 @@
 
 Hi!
 
-Join me as i go about exploring how to carry out SQL injections.
+Join me on my hacking journey!!!
 
-Some of you maybe beginners on this topic, but in no time
+Some of you maybe beginners, but in no time
 
 You'll become an expert-- maybe not an expert
 
 But with the knowledge you've acquired
 
-You should be able to detect and pentest sites
-
-With SQLi flaws
+You should be able to kinda destroy guys you hate --> Please don't try this 
 
 Now i'm done with introduction,
 
