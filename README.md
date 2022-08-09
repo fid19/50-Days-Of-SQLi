@@ -1,4 +1,4 @@
-# 50-Days-Of-SQLi
+# Summary of the Web Application Hackers Handbook by Dafydd Stuttard, Marcus Pinto
 
 Hi!
 
